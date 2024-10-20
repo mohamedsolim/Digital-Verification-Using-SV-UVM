@@ -8,6 +8,7 @@ A Synchronous FIFO (First In, First Out) is a memory queue where data enters fro
 
 ## Parameters
 • FIFO_WIDTH: DATA in/out and memory word width (default: 16)
+
 • FIFO_DEPTH: Memory depth (default: 8)
 
 ## Ports 
