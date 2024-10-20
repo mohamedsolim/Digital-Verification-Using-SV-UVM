@@ -1,3 +1,5 @@
+Digital Verification Diploma Program:
+DIGITAL Verification USING SV & UVM
 Class-Based Verification for a Synchronous FIFO
 
 SystemVerilog - class based verification of a parameterized Synchronous FIFO with code coverage, functional coverage, and assertions.
