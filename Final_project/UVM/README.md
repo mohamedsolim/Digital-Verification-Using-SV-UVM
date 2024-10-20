@@ -4,6 +4,9 @@
 
 Universal Verification Methodology (UVM) is a standardized methodology used for functional verification of hardware designs. It provides a modular, reusable, and scalable framework for building complex testbenches. Here's an overview of the UVM flow:
 
+![image](https://github.com/user-attachments/assets/d5d774c3-3e5d-4eae-bfa1-7929998e6daa)
+
+
 ### 1. UVM Components
 UVM defines various components that play specific roles in the testbench. These components are extended from base UVM classes and work together to verify the Design Under Test (DUT).
 
